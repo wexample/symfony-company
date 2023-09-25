@@ -17,6 +17,6 @@
     ],
     "require": {
         "wexample/symfony-helpers": "^0.1.90",
-        "wexample/symfony-money": "^0.0.2"
+        "wexample/symfony-money": "^0.0.3"
     }
 }
