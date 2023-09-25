@@ -1,0 +1,22 @@
+{
+    "name": "wexample/symfony-company",
+    "description": "Symfony helpers to manage companies",
+    "type": "library",
+    "license": "MIT",
+    "version": "0.0.1",
+    "autoload": {
+        "psr-4": {
+            "Wexample\\SymfonyCompany\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "weeger",
+            "email": "romain.weeger@wexample.com"
+        }
+    ],
+    "require": {
+        "wexample/symfony-helpers": "^0.1.89",
+        "wexample/symfony-money": "^0.0.1"
+    }
+}
