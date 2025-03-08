@@ -3,7 +3,7 @@
     "description": "Symfony helpers to manage companies",
     "type": "library",
     "license": "MIT",
-    "version": "1.0.16",
+    "version": "1.0.17",
     "autoload": {
         "psr-4": {
             "Wexample\\SymfonyCompany\\": "src/"
@@ -16,7 +16,7 @@
         }
     ],
     "require": {
-        "wexample/symfony-helpers": "^1.0.22",
-        "wexample/symfony-money": "^1.0.16"
+        "wexample/symfony-helpers": "^1.0.23",
+        "wexample/symfony-money": "^1.0.17"
     }
 }
