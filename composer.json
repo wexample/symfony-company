@@ -1,22 +1,22 @@
 {
-    "name": "wexample/symfony-company",
-    "description": "Symfony helpers to manage companies",
-    "type": "library",
-    "license": "MIT",
-    "version": "1.0.58",
-    "autoload": {
-        "psr-4": {
-            "Wexample\\SymfonyCompany\\": "src/"
-        }
-    },
-    "authors": [
-        {
-            "name": "weeger",
-            "email": "romain.weeger@wexample.com"
-        }
-    ],
-    "require": {
-        "wexample/symfony-helpers": "^1.0.64",
-        "wexample/symfony-money": "^1.0.58"
+  "name": "wexample/symfony-company",
+  "description": "Symfony helpers to manage companies",
+  "type": "library",
+  "license": "MIT",
+  "version": "1.0.58",
+  "autoload": {
+    "psr-4": {
+      "Wexample\\SymfonyCompany\\": "src/"
     }
+  },
+  "authors": [
+    {
+      "name": "weeger",
+      "email": "romain.weeger@wexample.com"
+    }
+  ],
+  "require": {
+    "wexample/symfony-helpers": "^1.0.64",
+    "wexample/symfony-money": "^1.0.58"
+  }
 }
