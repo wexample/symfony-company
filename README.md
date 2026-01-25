@@ -1,6 +1,6 @@
 # wexample/symfony-company
 
-Version: 1.0.72
+Version: 1.0.73
 
 Symfony helpers to manage companies
 
@@ -129,8 +129,8 @@ Refer to each package's documentation for specific version compatibility require
 
 ## Dependencies
 
-- wexample/symfony-helpers: 1.0.85
-- wexample/symfony-money: 1.0.73
+- wexample/symfony-helpers: 1.0.86
+- wexample/symfony-money: 1.0.74
 
 
 # About us
