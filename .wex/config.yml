@@ -1,11 +1,12 @@
 docker:
   db: {}
 domains: []
+git:
+  publication_strategy: main_push
 global:
   name: symfony_company
   type: app
-  version: 1.0.80
+  version: 1.0.81
 wex:
-  version: 6.0.89
-git:
-  publication_strategy: main_push
+  migration: 1
+  version: 6.0.90
