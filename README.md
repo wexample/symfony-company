@@ -1,6 +1,6 @@
 # symfony_company
 
-Version: 1.0.83
+Version: 1.0.84
 
 Symfony helpers to manage companies
 

@@ -6,7 +6,7 @@ git:
 global:
   name: symfony_company
   type: app
-  version: 1.0.83
+  version: 1.0.84
 wex:
   migration: 1
   version: 6.0.112
