@@ -16,8 +16,6 @@
     }
   ],
   "require": {
-    "php": ">=8.5",
-    "wexample/symfony-helpers": ">=9.0.0",
-    "wexample/symfony-money": ">=4.0.0"
+    "php": ">=8.5"
   }
 }
