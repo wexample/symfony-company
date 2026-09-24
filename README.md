@@ -1,6 +1,6 @@
 # symfony_company
 
-Version: 1.0.94
+Version: 1.0.95
 
 The repository does not provide any concrete code that could be documented for now.
 
